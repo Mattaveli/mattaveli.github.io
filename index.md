@@ -9,6 +9,7 @@
 [Rock Paper Scissors](https://mattaveli.github.io/rock-paper-scissors/)
 
 [Etch-a-Sketch](https://mattaveli.github.io/etch-a-sketch/)
+[Calculator](https://mattaveli.github.io/calculator/)
 
 <!-- You can use the [editor on GitHub](https://github.com/Mattaveli/mattaveli.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
